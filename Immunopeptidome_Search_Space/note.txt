@@ -1,0 +1,8 @@
+The scripts here represent various major pieces of the immunopeptidome
+search space creation process described in our manuscript.
+
+
+We have omitted scripts related to somatic mutation protein searches
+in nuORF regions, since we did not ultimately find these in our
+immunopeptidome searches. Please feel free to reach out to us
+if you would like these scripts for your own purposes.
